@@ -4,7 +4,7 @@ import 'package:ticket_with_celebrity/splash_screen.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
