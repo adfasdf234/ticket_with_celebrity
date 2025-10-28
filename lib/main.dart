@@ -12,4 +12,4 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(title: 'ticket_with_celebrity', home: SplashScreen());
   }
-}
+} 
